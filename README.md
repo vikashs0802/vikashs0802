@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vikashs0802
 - 👀 I’m interested in ...Programming && learning something new && Uncertain Tommorrow.
 - 🌱 I’m currently learning ...JavaScript
-- 💞️ I’m looking to collaborate on ...Projsct made with Javascript
+- 💞️ I’m looking to collaborate on ...Projects made with Javascript
 - 📫 How to reach me ...gmail- s.vikash0802@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
